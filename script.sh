@@ -1,2 +1,2 @@
-#!/bin/bush
-echo Hello Someone!!
+#!bin/bash
+echo HI wictims
